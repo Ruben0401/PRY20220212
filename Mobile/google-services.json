@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "140369995878",
+    "firebase_url": "https://inka-realtime-default-rtdb.firebaseio.com",
+    "project_id": "inka-realtime",
+    "storage_bucket": "inka-realtime.appspot.com"
+  },
+  "client": [
+   
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140369995878:android:4213800cb88066052625a7",
+        "android_client_info": {
+          "package_name": "com.ruben0401.pruebaLT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140369995878-g5ag0nuo1h637jo2kj8thd59pttutnlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2ioJQT2EiDFWi-sT-AiybezeUm7VmjDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140369995878-g5ag0nuo1h637jo2kj8thd59pttutnlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
